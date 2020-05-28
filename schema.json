@@ -72,7 +72,7 @@
          "name":"nom",
          "description":"Le nom de l'objet.",
          "example":"Brouette",
-         "type":"string",
+         "type":"integer",
          "constraints":{
             "required":true
          }
